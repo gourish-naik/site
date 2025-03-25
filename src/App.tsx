@@ -58,7 +58,7 @@ function App() {
 
             {/* Desktop Navigation */}
             <div className="hidden md:flex items-center space-x-8">
-              <a href="#about" className="hover:text-blue-400 transition-colors">About</a>
+              <a href="/" className="hover:text-blue-400 transition-colors">About</a>
               <a href="#experience" className="hover:text-blue-400 transition-colors">Experience</a>
               <a href="#projects" className="hover:text-blue-400 transition-colors">Projects</a>
               <a href="#skills" className="hover:text-blue-400 transition-colors">Skills</a>
